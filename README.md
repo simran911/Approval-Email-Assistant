@@ -206,33 +206,6 @@ uvicorn main:app --reload
 
 ---
 
-# Screenshots
-
-## Dashboard / Workflow
-
-> Add screenshot here
-
-```md
-![Dashboard](images/dashboard.png)
-```
-
-## Email Processing Example
-
-> Add screenshot here
-
-```md
-![Email Processing](images/email-processing.png)
-```
-
-## Approval Execution Example
-
-> Add screenshot here
-
-```md
-![Approval Execution](images/approval-execution.png)
-```
-
----
 
 # Use Cases
 

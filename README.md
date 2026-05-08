@@ -79,16 +79,15 @@ Core capabilities include:
 10. Automated responses/workflow actions are triggered where applicable
 
 
-> Add workflow image here
-
-```md
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/18094f83-6606-4bc8-94ae-ffe7a5685c61" width="900"/>
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/120480e7-44ff-497c-8a74-7ac8ed2ea92e" width="900"/>
 </p>
+
+```md
+
 
 ---
 
